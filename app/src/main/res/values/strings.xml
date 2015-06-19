@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Toolbar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Titulo">Este es el titulo de la Toolbar</string>
+    <string name="Subtitulo">Este es el Subtitulo de la Toolbar</string>
+</resources>
